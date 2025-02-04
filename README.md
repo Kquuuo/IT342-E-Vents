@@ -1,2 +1,9 @@
 # IT342-E-Vents
-E-vents
+
+TEAM MEMBERS:
+
+Member3:
+NAME: Giles Anthony II I. Villamor
+COURSE: Information Technology
+
+I am a third year student who loves to explore the world!
